@@ -1,2 +1,11 @@
 setting up repo assignment 2, need to establish connection with github
 why the whole folder
+
+How to set up connection:
+1.) mkdir directory --> creates directory
+2.) cd directory --> changes to the directory where files are located
+3.) git init --> makes the directory the repo
+4.) git checkout -b main --> switches to branch main
+5.) git remote add + SSH key
+6.) git remote -v --> to check it is the right repo
+7.) add, commit, push
